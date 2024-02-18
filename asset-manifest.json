@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "//b-sseung.github.io/watch-web/static/css/main.e9387f9f.css",
-    "main.js": "//b-sseung.github.io/watch-web/static/js/main.71c72379.js",
-    "static/js/592.41d7b818.chunk.js": "//b-sseung.github.io/watch-web/static/js/592.41d7b818.chunk.js",
-    "static/media/DS-DIGIB.TTF": "//b-sseung.github.io/watch-web/static/media/DS-DIGIB.81b4bd9230069b72f5e8.TTF",
-    "static/media/LiquidCrystal-ExBold.otf": "//b-sseung.github.io/watch-web/static/media/LiquidCrystal-ExBold.e2987f8901cfe0ed264c.otf",
-    "index.html": "//b-sseung.github.io/watch-web/index.html",
-    "main.e9387f9f.css.map": "//b-sseung.github.io/watch-web/static/css/main.e9387f9f.css.map",
-    "main.71c72379.js.map": "//b-sseung.github.io/watch-web/static/js/main.71c72379.js.map",
-    "592.41d7b818.chunk.js.map": "//b-sseung.github.io/watch-web/static/js/592.41d7b818.chunk.js.map"
+    "main.css": "/watch-web/static/css/main.4208d79e.css",
+    "main.js": "/watch-web/static/js/main.92ce8e9d.js",
+    "static/js/453.320ce979.chunk.js": "/watch-web/static/js/453.320ce979.chunk.js",
+    "static/media/DS-DIGIB.TTF": "/watch-web/static/media/DS-DIGIB.81b4bd9230069b72f5e8.TTF",
+    "static/media/LiquidCrystal-ExBold.otf": "/watch-web/static/media/LiquidCrystal-ExBold.e2987f8901cfe0ed264c.otf",
+    "index.html": "/watch-web/index.html",
+    "main.4208d79e.css.map": "/watch-web/static/css/main.4208d79e.css.map",
+    "main.92ce8e9d.js.map": "/watch-web/static/js/main.92ce8e9d.js.map",
+    "453.320ce979.chunk.js.map": "/watch-web/static/js/453.320ce979.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e9387f9f.css",
-    "static/js/main.71c72379.js"
+    "static/css/main.4208d79e.css",
+    "static/js/main.92ce8e9d.js"
   ]
 }
